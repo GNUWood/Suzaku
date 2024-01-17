@@ -1,5 +1,5 @@
 import DDoSGuardCheckerAPI, CloudflareCheckerAPI
-import sys, datetime, re, socket, json
+import sys, socket
 from colorama import Fore, Back, Style
 
 def printout(x):
